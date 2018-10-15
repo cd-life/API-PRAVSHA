@@ -15,6 +15,7 @@
 ```http
 POST /Requests/
 Authorization: Basic
+Content-Type: application/json
 ```
 ```json
 {
